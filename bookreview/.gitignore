@@ -1,0 +1,15 @@
+# the virtual environment folder
+env/
+
+# python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Django migration files
+*.log
+*.sqlite3
+
+# Ignore IDE/editor-specific files
+.vscode/
+*.swp
